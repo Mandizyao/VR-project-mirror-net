@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Mirror/Examples/Pong/Scenes/Scene.unity
     guid: 89a84548859e3b643b4fb27984dc2b0d
+  - enabled: 1
+    path: Assets/Scenes/VR-Scene.unity
+    guid: c638eb1ac12767745990f066a5fb630c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6925d73b370989b45a3c0418ad23b965, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8eb5588670c1b694d8b9d01f061e5ead, type: 2}
